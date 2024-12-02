@@ -1,7 +1,7 @@
 import axios from "axios";
 import { IBook } from "../interfaces/IBooks";
 
-const API_URL = "http://localhost:5000/books";
+const API_URL = "https://db-mock-api.vercel.app/books";
 
 export const fetchBooks = async (): Promise<IBook[]> => {
   const response = await axios.get(API_URL);
