@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": "1733107486722",
+      "title": "hello",
+      "author": "worls",
+      "publishedYear": 2023,
+      "genre": "Drama"
+    },
+    {
+      "id": "1733107495584",
+      "title": "hello",
+      "author": "",
+      "publishedYear": 2023,
+      "genre": "Drama"
+    },
+    {
+      "id": "1733107501432",
+      "title": "",
+      "author": "",
+      "publishedYear": 2023,
+      "genre": "Fantasy"
+    }
+  ]
+}
